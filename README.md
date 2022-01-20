@@ -17,4 +17,4 @@ Collection of Deep Learning based NLP architectures
 
 ### Credits
 
-- Indonesian-NLP Section was seeded from [awesome-nlp](https://github.com/keon/awesome-nlp)
+- [awesome-nlp](https://github.com/keon/awesome-nlp)
